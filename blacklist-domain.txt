@@ -312,3 +312,4 @@ www.webmine.cz
 xmr.cool
 xmr.2miners.com
 zymerget.win
+malware-check.disconnect.me
